@@ -385,7 +385,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-Your Name - [Your LinkedIn] - [Your Email]
+Vuppala Yashwanth - [Yashwanthvuppala123@gmail.com]
 
 ---
 
