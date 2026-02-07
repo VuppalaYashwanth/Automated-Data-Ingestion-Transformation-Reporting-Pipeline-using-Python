@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files (optional - comment out if you want to track)
+data/raw/*.json
+data/processed/*.csv
+
+# Database (optional - comment out if you want to track)
+database/*.db
+
+# Reports (optional - comment out if you want to track)
+reports/*.csv
+reports/*.txt
+
+# Logs
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API Keys (if you create a .env file)
+.env
