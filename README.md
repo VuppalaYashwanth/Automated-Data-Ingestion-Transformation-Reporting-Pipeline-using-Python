@@ -1,0 +1,2 @@
+# Automated-Data-Ingestion-Transformation-Reporting-Pipeline-using-Python
+This project implements an end-to-end automated data pipeline using Python to support internal analytics and reporting workflows. The system ingests data from external APIs, performs cleaning and transformation, stores structured data in a relational database, and generates reproducible reports suitable for business and operational use.
