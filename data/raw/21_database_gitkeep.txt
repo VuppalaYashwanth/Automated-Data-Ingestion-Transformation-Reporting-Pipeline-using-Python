@@ -1,0 +1,3 @@
+# Placeholder file to preserve directory structure in Git
+# This directory will contain the SQLite database file
+# Database is created automatically when the pipeline runs

@@ -1,0 +1,3 @@
+# Placeholder file to preserve directory structure in Git
+# This directory will contain pipeline execution log files
+# Files are created automatically when the pipeline runs

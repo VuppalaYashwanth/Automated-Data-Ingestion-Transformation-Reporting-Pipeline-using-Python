@@ -1,0 +1,3 @@
+# Placeholder file to preserve directory structure in Git
+# This directory will contain processed/cleaned CSV files
+# Files are generated automatically when the pipeline runs
