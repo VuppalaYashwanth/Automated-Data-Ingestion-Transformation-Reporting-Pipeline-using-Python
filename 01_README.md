@@ -381,7 +381,7 @@ print(latest_market)
 
 ## 📄 License
 
-This project is open source and available for educational purposes.
+This project is licensed under the MIT License - see [LICENSE] CHECK LICENSE FILE IN THE REPOSITORY for details.
 
 ## 👤 Author
 
